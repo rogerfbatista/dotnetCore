@@ -28,8 +28,8 @@ namespace catagoloproduto
                 app.UseDeveloperExceptionPage();
             }
               var listaOrigem = new List<string>();
-              listaOrigem.Add("http://localhost:4200");
-              listaOrigem.Add("http://192.168.0.117");
+                 listaOrigem.Add("http://localhost:4200");
+                 listaOrigem.Add("http://192.168.0.117");
 
               
 
