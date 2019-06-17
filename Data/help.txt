@@ -1,0 +1,21 @@
+instalar
+dotnet add sln
+dotnet sln add csproj
+
+entity
+dotnet add package Microsoft.EntityFrameworkCore
+ferramentas migrations
+dotnet add package Microsoft.EntityFrameworkCore.Tools.Dotnet
+
+
+dotnet ef migrations add initial
+
+criar e atualizar banco de dados
+dotnet ef database update
+
+criar a nova migração
+dotnet ef migrations add v1
+
+add mvc
+
+dotnet add package Microsoft.AspnetCore.mvc
