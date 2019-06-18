@@ -30,8 +30,7 @@ namespace catagoloproduto
               var listaOrigem = new List<string>();
                  listaOrigem.Add("http://localhost:4200");
                  listaOrigem.Add("http://192.168.0.117");
-                 listaOrigem.Add("https://192.168.0.117");
-                   
+                               
               
 
              app.UseCors(b=> b.WithOrigins(listaOrigem.ToArray()));
