@@ -1,0 +1,14 @@
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\bin\Debug\netcoreapp2.2\CatagoloProduto.deps.json
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\bin\Debug\netcoreapp2.2\CatagoloProduto.runtimeconfig.json
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\bin\Debug\netcoreapp2.2\CatagoloProduto.runtimeconfig.dev.json
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\bin\Debug\netcoreapp2.2\CatagoloProduto.dll
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\bin\Debug\netcoreapp2.2\CatagoloProduto.pdb
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.csprojAssemblyReference.cache
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.RazorAssemblyInfo.cache
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.RazorAssemblyInfo.cs
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.AssemblyInfoInputs.cache
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.AssemblyInfo.cs
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.RazorTargetAssemblyInfo.cache
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.dll
+C:\Users\Bianca\Documents\VSCODE\dotnetCore\obj\Debug\netcoreapp2.2\CatagoloProduto.pdb
